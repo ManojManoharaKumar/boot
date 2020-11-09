@@ -1,3 +1,4 @@
+
 package com.manoj.boot;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
